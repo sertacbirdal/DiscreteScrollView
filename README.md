@@ -1,3 +1,4 @@
+
 # DiscreteScrollView
 
 The library is a RecyclerView-based implementation of a scrollable list, where current item is centered and can be changed using swipes.
